@@ -1,9 +1,6 @@
 # LSTM-Based-Malicious-Traffic-Detection
 project focuses on leveraging Long Short-Term Memory (LSTM) neural networks for the identification of malicious network traffic.
 
-# IoT-Network-Intrusion-Detection-System-dapt2020
-Network Intrusion Detection based on various Machine learning algorithms using dapt2020 Dataset
-
 ## Prerequisites
 -   Sklearn
 -   Pandas
